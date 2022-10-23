@@ -1,0 +1,11 @@
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\bin\Debug\SMSlibrary.dll
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\bin\Debug\SMSlibrary.pdb
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CopyComplete
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\ClassExample\obj\Debug\ClassExample.pdb

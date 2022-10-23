@@ -1,0 +1,6 @@
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\bin\Debug\SMSlibrary.dll
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\bin\Debug\SMSlibrary.pdb
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\obj\Debug\SMSlibrary.csproj.AssemblyReference.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\obj\Debug\SMSlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\obj\Debug\SMSlibrary.dll
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Week4\ClassExample\SMSlibrary\obj\Debug\SMSlibrary.pdb
