@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "ClassExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSlibrary", "SMSlibrary\SMSlibrary.csproj", "{44C110BA-1659-4617-BDDD-4F2FD42825A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-Endtoend", "MVC-Endtoend\MVC-Endtoend.csproj", "{B0D24338-7CED-4A96-9ADD-C8D7F9FC3D41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{44C110BA-1659-4617-BDDD-4F2FD42825A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44C110BA-1659-4617-BDDD-4F2FD42825A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44C110BA-1659-4617-BDDD-4F2FD42825A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D24338-7CED-4A96-9ADD-C8D7F9FC3D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D24338-7CED-4A96-9ADD-C8D7F9FC3D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D24338-7CED-4A96-9ADD-C8D7F9FC3D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D24338-7CED-4A96-9ADD-C8D7F9FC3D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

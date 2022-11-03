@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nx4TDcXw1Lo8papkVT+CmwzX1orgWGNfU//pi+Ds7oxlvYzyNgkaZ+2A3e3tdkvKLxNcFPi47f5gI3AiXLGfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yoseph\\Desktop\\2022-C#\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoseph\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
