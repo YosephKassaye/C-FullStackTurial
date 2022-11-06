@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9nx4TDcXw1Lo8papkVT+CmwzX1orgWGNfU//pi+Ds7oxlvYzyNgkaZ+2A3e3tdkvKLxNcFPi47f5gI3AiXLGfw==",
+  "dgSpecHash": "5bGpyXk4MaE3hNXxL/sVgWF+oQXh+0fqzl6pw4R7aytxfveMVWwWY1LZ9/HlUzoJUDGrMkwmnO10ImC53A/Q9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yoseph\\Desktop\\2022-C#\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
+  "projectFilePath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yoseph\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
   ],
