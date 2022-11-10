@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj": {}
+    "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj": {
+    "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
+        "projectUniqueName": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
         "projectName": "MVC-Endtoend",
-        "projectPath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
+        "projectPath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
         "packagesPath": "C:\\Users\\Yoseph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Week6\\C-FullStackTurial\\MVC-Endtoend\\obj\\",
+        "outputPath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
