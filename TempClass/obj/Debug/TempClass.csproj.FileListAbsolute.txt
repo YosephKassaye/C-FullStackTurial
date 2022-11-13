@@ -1,0 +1,8 @@
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\bin\Debug\TempClass.exe.config
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\bin\Debug\TempClass.exe
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\bin\Debug\TempClass.pdb
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\obj\Debug\TempClass.csproj.AssemblyReference.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\obj\Debug\TempClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\obj\Debug\TempClass.csproj.CoreCompileInputs.cache
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\obj\Debug\TempClass.exe
+C:\Users\Yoseph\Desktop\2022-FullStackDevelopment\Lab\C-FullStackTurial\TempClass\obj\Debug\TempClass.pdb
