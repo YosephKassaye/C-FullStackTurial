@@ -8,5 +8,8 @@ namespace TempClass
 {
     internal class Grade
     {
+        public int StudentId { get; set; }
+        public string Cono { get; set; }
+        public int Mark { get; set; }
     }
 }
