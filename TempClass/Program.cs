@@ -63,18 +63,18 @@ namespace TempClass
             c.GetType();
         }
 
-        //public static int FindResult(int n1, int n2, string si)
-        //{
-        //    if (si == "+")
-        //        return n1 + n2;
-        //    else if (si == "-")
-        //        return n1 - n2;
-        //    else if (si == "*")
-        //        return n1 * n2;
-        //    else if (si == "/")
-        //        return n1 % n2;
-        //    else return 0;
+        public static int FindResult(int n1, int n2, string si)
+        {
+            if (si == "+")
+                return n1 + n2;
+            else if (si == "-")
+                return n1 - n2;
+            else if (si == "*")
+                return n1 * n2;
+            else if (si == "/")
+                return n1 % n2;
+            else return 0;
 
-        //}
+        }
     }
 }

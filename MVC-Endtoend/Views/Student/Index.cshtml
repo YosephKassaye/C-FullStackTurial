@@ -1,3 +1,13 @@
-﻿<h2>Welcome to Student's Page</h2>
+﻿@model IEnumerable<Student>;
+
+<h2>Welcome to Student's Page</h2>
 @ViewBag.title 
 @ViewBag.fname
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.FName</li>
+        
+    }
+</ul>
