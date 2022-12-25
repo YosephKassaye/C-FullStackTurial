@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SEo6KLrKlE6r8YFvUzm+L1jcFR6J8ztu6zBq5d0NI7sATbFL4/jgxAA3JyNDDJ609rJa3Xrwqo0fB1Rt+CC5Sg==",
+  "dgSpecHash": "ZRF8tJnX+n0q2SzGdm5OT+gQdVigVsCaltviaULC7DqKt76FoW5+BZU8G10tTk2yZhLPAE705eknC9QWVmBqIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yoseph\\Desktop\\2022-FullStackDevelopment\\Lab\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
+  "projectFilePath": "C:\\Users\\Yoseph\\Desktop\\_CrashCourses\\2022\\C-FullStackTurial\\MVC-Endtoend\\MVC-Endtoend.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Yoseph\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -36,7 +36,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Yoseph\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\Yoseph\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Yoseph\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",

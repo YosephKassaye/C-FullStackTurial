@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MVC_Endtoend.Models
 {
@@ -8,5 +9,6 @@ namespace MVC_Endtoend.Models
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
         public int FacultyId { get; set; }
+      
     }
 }

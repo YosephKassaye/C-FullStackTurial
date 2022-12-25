@@ -15,7 +15,9 @@ namespace MVC_Endtoend.Data
         public DbSet<Department> Department { get; set; }
         public DbSet<Faculty> Faculty { get; set; }
         public DbSet<Student> Student { get; set; }
-        //public DbSet<Grade> Grade { get; set; }
+        public DbSet<Payment> Payment { get; set; }
+
+        public DbSet<Users> Users { get; set; }
 
     }
 }

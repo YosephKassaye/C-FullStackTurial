@@ -17,7 +17,7 @@ namespace MVC_Endtoend.Controllers
         {
             _logger = logger;
         }
-
+        //http://localhost:65365/home/Index
         public IActionResult Index()
         {
             return View();
